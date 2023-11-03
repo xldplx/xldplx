@@ -4,8 +4,11 @@ software engineer and open source enthusiast. i go by xldplx or matt online. cur
 
 ---
 
-## currently learing: | ##currently an expertise in: 
+## currently learing:
 
 * Tailwind
 * JavaScript
 * TypeScript
+
+---
+
