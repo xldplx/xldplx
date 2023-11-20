@@ -6,11 +6,24 @@ when i'm not coding, you can find me staying active outdoors, reading, or hangin
 
 ---
 
+## my current skills:
+
+* HTML5, CSS3
+* TailwindCSS 
+
+---
+
 ## currently learning:
 
-* Tailwind
 * JavaScript
 * TypeScript
 
 ---
 
+## you can connect me thru any social medias that i have!
+
+* Discord: @xldplx
+* Twitter: -
+* Instagram: -
+
+---
