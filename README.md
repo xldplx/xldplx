@@ -19,8 +19,4 @@ xldplx@system:~$ ./whoami.sh
 * Typing Speed : 190 WPM (Target: 200 WPM)
 * Interests    : Music, Learning Japanese
 
-> LATEST WORK
-* Full-Stack Intern @ PT. Omron Manufacturing of Indonesia (Warehouse Digitalization System)
-* ZenithHUB (Gamer Cognitive Training Platform)
-
 xldplx@system:~$ echo "everything happens for a reason."
